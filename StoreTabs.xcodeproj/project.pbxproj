@@ -15,6 +15,7 @@
 		4217A9601F3417BE00B67F1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4217A95E1F3417BE00B67F1B /* LaunchScreen.storyboard */; };
 		4217A96B1F3417BE00B67F1B /* StoreTabsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4217A96A1F3417BE00B67F1B /* StoreTabsTests.swift */; };
 		4217A9761F3417BF00B67F1B /* StoreTabsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4217A9751F3417BF00B67F1B /* StoreTabsUITests.swift */; };
+		4217A9841F341BB700B67F1B /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4217A9831F341BB700B67F1B /* AddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4217A9711F3417BE00B67F1B /* StoreTabsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoreTabsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4217A9751F3417BF00B67F1B /* StoreTabsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreTabsUITests.swift; sourceTree = "<group>"; };
 		4217A9771F3417BF00B67F1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4217A9831F341BB700B67F1B /* AddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				4217A9521F3417BE00B67F1B /* AppDelegate.swift */,
 				4217A9541F3417BE00B67F1B /* ViewController.swift */,
 				4217A9561F3417BE00B67F1B /* Main.storyboard */,
+				4217A9831F341BB700B67F1B /* AddViewController.swift */,
 				4217A95C1F3417BE00B67F1B /* Assets.xcassets */,
 				4217A95E1F3417BE00B67F1B /* LaunchScreen.storyboard */,
 				4217A9611F3417BE00B67F1B /* Info.plist */,
@@ -267,6 +270,7 @@
 			files = (
 				4217A9551F3417BE00B67F1B /* ViewController.swift in Sources */,
 				4217A9531F3417BE00B67F1B /* AppDelegate.swift in Sources */,
+				4217A9841F341BB700B67F1B /* AddViewController.swift in Sources */,
 				4217A95B1F3417BE00B67F1B /* StoreTabs.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
